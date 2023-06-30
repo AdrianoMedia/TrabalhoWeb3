@@ -1,4 +1,5 @@
-O que foi criado é a pasta "components" e a alteração do arquivo "App.js"
+O que foi criado é a pasta "components" e a alteração do arquivo "App.js" 
+Eu também não fiz o upload da pasta "node_modules" pois não permitia o upload de +de 100 itens, mas acredito que irá funcionar mesmo assim.
 
 # Getting Started with Create React App
 
